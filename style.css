@@ -1,0 +1,33 @@
+body{
+    font-family: monospace;
+    padding: 100px;
+}
+.submit-area{
+    padding: 40px;
+    box-shadow: 5px 5px 10px gray;
+    margin-top: 60px;
+    border-radius: 8px;
+}
+#neon-10{
+    color: rgb(230, 143, 109);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#transaction-area{
+    display: none;
+}
+.status{
+    margin: 0 20px;
+    color: white;
+    padding: 25px;
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif
+}
+.deposite{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
